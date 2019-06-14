@@ -1,0 +1,1314 @@
+commit 7c4242c49a5974f18d52dce7d44aa1829a75a9b1
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Jun 14 11:04:39 2019 +0100
+
+    consegna M4
+
+commit 6bda96726e88f39c1edc40656a74f73a92487e9f
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Jun 14 11:03:30 2019 +0100
+
+    Fixed misc css/html stuff
+    
+    No more autocomplete/fixed css for id_image
+
+commit 077124f693f54de25a6b8df90ebe2c66a6042e44
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Jun 14 10:42:44 2019 +0100
+
+    New sql dump
+
+commit 3009b60a814539d925bc0a94fc2aea40f756dcfd
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu Jun 13 11:26:03 2019 +0100
+
+    Comments
+    
+    added comments on the search.js file
+
+commit d612173163cad36331e3c1db8f62d725c9d2062f
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu Jun 13 11:12:12 2019 +0100
+
+    Redirecting to the same page after adding author
+
+commit 3843cc210d28bbbde9f444c5a8bd690e1dd8e3d8
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Jun 12 16:52:39 2019 +0100
+
+    Added some css
+
+commit 8b2d2a77fda2bc5df1fa01b9eafbccfb3cd0f00d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Jun 12 16:47:52 2019 +0100
+
+    Re-enable redirect
+    
+    For when changing author is successful
+
+commit 7b3e04f36fb12da1ab11d55f21963e7545f5806e
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Jun 12 16:46:09 2019 +0100
+
+    Working
+
+commit 2d341c450567ce4511e5005ae04b501a2088d47c
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Jun 12 16:28:55 2019 +0100
+
+    savepoint v500
+
+commit 9816aec96f6caf256d6afb3d1c0ae076c9d95ec7
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Jun 12 15:59:36 2019 +0100
+
+    savepoint
+
+commit a3f5b72ca7dd8d7f2503a0a0b470ae13ff9b2a09
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Jun 12 15:46:52 2019 +0100
+
+    removed line
+    redundant
+
+commit 0e8d257650f4329a7d9f8c9059e5ed47964c2e68
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Jun 12 15:46:38 2019 +0100
+
+    Adding on input not working on first click
+
+commit 33d5cd120ed4ebce84e0beeba669c57e47f99497
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Jun 12 12:56:52 2019 +0100
+
+    somewhat working
+
+commit 30b2e19598b3c42b08dd3852a81ccec51b0dba05
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Jun 12 12:36:27 2019 +0100
+
+    object copied
+
+commit 33a1680a9e1fdb0156a3239b7e7725f9625a00e8
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Jun 12 11:39:28 2019 +0100
+
+    still can't tell what li is selected
+    
+    ??
+
+commit d7ef78aff8d8308914231d248c2dbb71834047d0
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Jun 12 11:04:12 2019 +0100
+
+    printing id now
+
+commit 828cf15595dd807748b789099611918307babbaf
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Jun 11 17:40:30 2019 +0100
+
+    alternative
+
+commit 8e4059cebb315415619e5fba5b2e57b34199bead
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Jun 11 17:40:18 2019 +0100
+
+    progressi js
+
+commit 4a0037af6b8041aa78bda068e354568234ba2869
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Jun 11 12:54:54 2019 +0100
+
+    now connecting to servlet, nullpointer @ line 53
+
+commit 27020ab04665e0d790ce3741e9fd15c274696782
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Jun 11 12:48:05 2019 +0100
+
+    ajax can't connect
+
+commit de5707e93a3e21bb573678f56a74275c0916aa71
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Jun 11 10:32:59 2019 +0100
+
+    writepaper ready
+
+commit 290e2d449712a72dc86c34a574a146e570139c49
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Jun 11 09:49:01 2019 +0100
+
+    json ready
+
+commit f86dbd975f0f5ffe91b278cff6bb10d624d32bbb
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Jun 10 12:08:13 2019 +0100
+
+    ?
+
+commit a36e19db4f33bbb834463f7f329cf476d5c890d3
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Jun 10 11:18:19 2019 +0100
+
+    Prep m4 v2
+
+commit 72683a2be857a9732a03260cefe2eb61c8d5e0f5
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Jun 10 09:39:22 2019 +0100
+
+    Prep m4
+
+commit 02fb1d5e008b0861f5fd3f975b07f78f84c7fa5f
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Jun 3 10:02:05 2019 +0100
+
+    pausa lezione
+
+commit 506b43f4beb1fb4171fa9695d47fe24b043cd665
+Merge: 990a58c 5bf295e
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Jun 1 15:06:02 2019 +0100
+
+    consegna M3
+
+commit 990a58c5f8766c88af107a39258c812e2d22e638
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Jun 1 15:02:32 2019 +0100
+
+    consegna M3
+
+commit 5bf295e3c6a0e947eebeae8f7afb6dff47b20596
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri May 31 16:25:14 2019 +0200
+
+    little fixes
+
+commit 43ffd58c660603900af2089983ed4c9e9ef53c0b
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri May 31 14:51:55 2019 +0200
+
+    Comments
+    
+    more comments
+
+commit 03f3b492a8c3d5369f796ba7fd095f421b978733
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri May 31 12:56:42 2019 +0100
+
+    ok
+
+commit f7ec2a8dbff5eede75cde84139238121b0091354
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri May 31 12:34:32 2019 +0100
+
+    save point v2
+
+commit 0b21887b93102899db6177bb0b8ea056974f025c
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri May 31 12:29:55 2019 +0100
+
+    boh
+
+commit a7b334e93a45917d9edb8eceeb82fb1ebf6dd7f1
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri May 31 12:05:55 2019 +0100
+
+    save point
+    
+    review table
+
+commit c2e8a35e89b2edbcc8b4c38f5f5ab70f8acd51da
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri May 31 11:00:45 2019 +0100
+
+    added date format @ scriviarticolo
+    
+    (YYYY-MM-DD)
+
+commit db5f5810e66860945395d3a3293604d8d347b44e
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri May 31 10:57:25 2019 +0100
+
+    more writepaper fixes
+    added comments
+
+commit 93834d6c2695c2cf08f6a2da78b4361f9569b679
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri May 31 10:52:50 2019 +0100
+
+    fix writepaper
+    
+    users cannot edit others' papers anymore
+
+commit a236b899669833935c53bebc24577d7d5f1eabd5
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri May 31 10:06:12 2019 +0100
+
+    and/or ?? scriviarticolojsp
+
+commit 380c3fcacf3701627f4e4d00312c4a480d3fc768
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri May 31 00:20:48 2019 +0100
+
+    rollback getuserbyname
+
+commit 79d9ab1b180a140f46e64de227b2ff96133d8a05
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu May 30 23:20:41 2019 +0100
+
+    fixed open connection when not inserting author
+
+commit edafad80592463f7b3f49fc9e8733658e89ede19
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu May 30 23:01:43 2019 +0200
+
+    Manage
+
+commit 0b4988aee5d64bbe4bcc01fc0919cc57a307e82d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu May 30 22:00:53 2019 +0200
+
+    Comments
+    
+    added comments
+
+commit 6d04018da41cc7df73f3610d662c24a6ffdac1c9
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu May 30 15:15:33 2019 +0200
+
+    lower case or
+    
+    ?_?
+
+commit a3b1279b111308d8fb2d83b18a84d7d45accee3d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu May 30 14:36:07 2019 +0200
+
+    Fix close connection
+    
+    Probable fix for connections that wouldn't close after submitting new paper
+
+commit 9a34302828426a5b8ea1b3b6729c7fffd45912da
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu May 30 13:05:09 2019 +0100
+
+    userfactory line 70 problem
+
+commit 84851b87a30fbcdcbab70abea7f6352b0995cf87
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu May 30 12:48:02 2019 +0100
+
+    various fixes writepaper
+
+commit 56ea9b9ce5b36b57c39129f18c3d0fa5089aeeb3
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu May 30 11:34:01 2019 +0100
+
+    added graders list for papers + db table to handle it
+    
+    fixed management displaying wrong infos about papers
+
+commit 102e4e476ac075635eb74c84017f1a75c4a1ddb5
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 16:40:01 2019 +0100
+
+    updated crea-db
+
+commit f532f6107474c742a27839573df53688ac32240d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 15:58:33 2019 +0100
+
+    manage nullpointer fixed oops
+
+commit f17fd5e49b3f6ead6a32f9dfb609f650f1b99984
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 15:54:29 2019 +0100
+
+    grades @ gestione.html ok
+
+commit 31c016bf81bc438d58120a4ba5945d335914a3cf
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 15:30:11 2019 +0100
+
+    fixed manage/gestione.jsp for non organizers
+
+commit c3cbcfded865afe19d79a452e011dfe51734f6ae
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 14:57:17 2019 +0100
+
+    Fixed imports
+
+commit cd63973ab6787e617c4ce7840caba00e4d6aeae1
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 14:56:15 2019 +0100
+
+    added utility methods
+
+commit 8e7b458894474b15dd2f3b1e7148eecce06fdb78
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 12:46:40 2019 +0100
+
+    deleted redundant session attribute
+
+commit b08de3fcd72f7550bdb6989021ff6ae1c1d04721
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 12:38:51 2019 +0100
+
+    db_backup
+
+commit 69f4def9275c1a80d1392a42f969f49d50aefa96
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 12:35:46 2019 +0100
+
+    Milestone complete, need to fix details
+
+commit 89a40062b60a8bbbb8021dda78e4d0539c364ffc
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 12:28:35 2019 +0100
+
+    trying to make redirect work after logout
+
+commit 58d7881dc9021fc29f74eabe9e098104e397056c
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 11:52:13 2019 +0100
+
+    db
+
+commit d01f4d78acb8ca3a71f259233dd94fd5e322bddc
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 11:45:06 2019 +0100
+
+    uh
+
+commit 6e754d989ea01ed77dfaf7e91da3ad57bdeb108a
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 11:20:00 2019 +0100
+
+    added picture to papers v2
+
+commit 8d79bb3229f12afd7bf96ed692e569006bb20e12
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 11:07:58 2019 +0100
+
+    added picture to papers
+
+commit f8fa5aa7ba60f18ab1e2ad6c9de19ef4dc377636
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 11:04:29 2019 +0100
+
+    riordinato
+
+commit e6bbdcb4449337dac38d6b29cf0fbd28bc04b889
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 11:03:12 2019 +0100
+
+    scriviarticolo picture handling missing
+
+commit 8000fb5f154b6858abd089751935b42ebe0aa0c0
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 28 10:51:01 2019 +0100
+
+    scrivi articolo
+
+commit 90309896ea1a2dc38f19627403c652c0450d3802
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 27 21:20:25 2019 +0100
+
+    Data doesn't refresh before logout and login
+
+commit de2a27196a25f42469a04f09ed5af8cfa9ec4268
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 27 18:56:21 2019 +0100
+
+    fetching current item id, 84
+
+commit 07f5db795242ca8cdae2e31d770a3581af61db69
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 27 18:08:30 2019 +0100
+
+    adding paper v2
+
+commit 2ebb2f92fd4227c673ef88bc161fcce5af43bb9d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 27 17:02:24 2019 +0100
+
+    adding paper
+
+commit d363e302e2c44494d36bf922a8d7383f468002df
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 27 16:40:27 2019 +0100
+
+    editing papers
+
+commit ba8aa280b1b32a37f3a0df4e6447e9b804eb7ebe
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 27 15:00:02 2019 +0100
+
+    fixed gradesfactory
+
+commit 464c7255ac6f19691b31743bf2da5bc6a91b8239
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 27 12:54:04 2019 +0100
+
+    edit gradesfactory
+
+commit 211d047c9a6525c75015af21e6db33b8406bd174
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 27 12:14:07 2019 +0100
+
+    finished paperfactory
+
+commit 2fefa76c5a5fe061d2a75b6640df172de1bbdd5c
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 27 10:53:48 2019 +0100
+
+    fine lezione
+
+commit 43d50c4052e195b68644d0d5c572bfc7353c974f
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 27 10:41:54 2019 +0100
+
+    new login
+
+commit 4ec404188b4413ffdb1089094d4cebc871de1b90
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 27 10:09:27 2019 +0100
+
+    library + factory
+
+commit bde41e4a2683d6d41d9d6e140acc42f0ce3a3277
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 27 09:50:26 2019 +0100
+
+    dbconnection instanced
+
+commit 98f7d8fa3bc0f56c70ebef76464bcc08afe23a40
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat May 25 17:53:02 2019 +0100
+
+    Finito task 4
+
+commit 42c163c39efee81f4b6dac6d2f3e890ba2433d3b
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat May 25 17:48:32 2019 +0100
+
+    gradesfactory done
+
+commit 11300bd045f3627fbc4390d12d782264d5203065
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat May 25 17:39:19 2019 +0100
+
+    gradesfactory missing
+
+commit a406da03dcd65ef12b8f87b0b9e09b2d6b853d8f
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat May 25 17:02:01 2019 +0100
+
+    cannot find drive in classpath?
+
+commit 7e3e9d04536c93841cee45d1542423aa8ba64104
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat May 25 16:24:47 2019 +0100
+
+    Test userfactory db
+
+commit cefcd5b333b27d5c82fb93357ab30cae6c62a6cf
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 21 12:17:49 2019 +0100
+
+    upload db
+
+commit ebc5b521aa489ea288bc7eae33c554731116698c
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue May 21 10:09:16 2019 +0100
+
+    db
+
+commit 60955052fd69864fb5be937bc94c6bc508e160d1
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 20 12:31:39 2019 +0100
+
+    FIles database
+
+commit 601a3b4e52544b1e901e633e9386d11c86046bfd
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 21:20:44 2019 +0200
+
+    consegna M2
+
+commit 7ff72e01068cceb0694fcbc12a947b1cad6b03e2
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 21:03:59 2019 +0200
+
+    consegna M2
+
+commit 025db8d37d964a7271d5f152c39d8922266c810a
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 21:00:04 2019 +0200
+
+    prefilled scriviArticolo categories
+
+commit 3ac677d702f0341a15a2432a6d3e2b9b40962c22
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 20:42:12 2019 +0200
+
+    gradesfactory changed grades
+
+commit c180990001046684e2bc419870ff1e22a6558ffa
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 20:36:29 2019 +0200
+
+    fix vari
+
+commit 9a93d7aa21ab8ecd2552d28197dedb1dde007c1d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 17:11:07 2019 +0200
+
+    fixed logout
+
+commit c8f38f786975bcfee82ede9d230e0791e6918b9d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 17:07:34 2019 +0200
+
+    format
+
+commit 42d71a6de369988e13dde2c213c8e4e9893c78bb
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 16:59:25 2019 +0200
+
+    scriviarticolo
+
+commit c42cfafa2fd5e805ce0b5d457a11b4208d1727c0
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 16:50:36 2019 +0200
+
+    fixed nullpointer exceptions when reloading pages
+
+commit f9b6908de87a95ddc10cdfcd6f0827952bcc4cc9
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 16:13:24 2019 +0200
+
+    fixed gradingfactory
+
+commit 79fd67a514519230e0998bd0427ab5f2d3499a0b
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 14:39:12 2019 +0200
+
+    fixed logout
+
+commit d519657b63cd43ec6efb42bea08e2ce140ef7535
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 14:25:56 2019 +0200
+
+    updated with servlets, jsps and removed M1 folder
+
+commit 84d2d93b12a196a7d53c493b4303df5a5489a361
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 14:12:09 2019 +0200
+
+    fixed controller model v2
+
+commit 86faafe40226f37e4c38fa6635ef8ff482f54678
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon May 6 14:07:10 2019 +0200
+
+    cambiato nome package
+
+commit 1904e777853b475b40f09b9e521648585174d996
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat May 4 20:03:46 2019 +0200
+
+    better checking for papers & author matching
+
+commit 9acc80bb0bb9376101550a33e6392bdeddcef862
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat May 4 19:59:50 2019 +0200
+
+    fixato
+
+commit d9826b53d0d0ccfe292e50902179c216104f84c6
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat May 4 19:52:59 2019 +0200
+
+    phew
+
+commit 18ce211647befd62bf2a0b2a172b6c120653fe40
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat May 4 18:43:29 2019 +0200
+
+    more gestione
+
+commit 39645f1840c8f0d0dea2a665aaa9e14f7bca0242
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat May 4 18:36:30 2019 +0200
+
+    manage servlet + gestione.html
+    
+    fixed access rights
+
+commit b1f5c76d684593dfa8e561d1b34d7e02dff84ba6
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat May 4 17:57:14 2019 +0200
+
+    fixed navbar to show appropriate text in appropriate cases
+    
+    created regisrazione servlet and jsp
+    
+    fixed header 'current' css cases
+
+commit 48bd5fb97af0d5c5d8b41b844ae27f78dca2596b
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri May 3 17:34:44 2019 +0200
+
+    Fixata roba scriviarticolo
+
+commit bfc5672d73dbefdb21b348937365a1a8f8904a31
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu May 2 17:16:24 2019 +0100
+
+    diocane
+
+commit b35aa4b1f8c401306aa50e95f5074160f67dad3e
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu May 2 16:58:18 2019 +0100
+
+    articoli
+
+commit a06cf9f0348fb6b5d1ec8b68975e4ba887ac023e
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu May 2 16:36:46 2019 +0100
+
+    progressi
+
+commit 5ae1c7f759306b014bb91871a7d90a09204ed9d2
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu May 2 14:55:07 2019 +0100
+
+    test
+
+commit c10e1bd1a761669e170cfdd98d9c052b7b7d9600
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed May 1 23:11:12 2019 +0200
+
+    3 articoli fixed
+
+commit f970eb474ccd832ad524068d885108aca5abcd03
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed May 1 21:00:53 2019 +0200
+
+    problema: max 3 articoli navbar
+
+commit 4ac7c336b9e497e828b599b2f21621bc60e8ca2d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed May 1 20:52:16 2019 +0200
+
+    pogchamp articoli.jsp
+
+commit 3d4a7232ac833ddfbea0056df9ec3611ff1654a2
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed May 1 19:00:35 2019 +0200
+
+    idk
+
+commit 1dfc8526bb59dfe74288af5e370579d897987fe5
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed May 1 18:32:19 2019 +0200
+
+    can access articoli even if not logged in
+
+commit be845590de84f4ac7544780305aad7b54e896767
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed May 1 17:31:37 2019 +0200
+
+    some java
+
+commit bda488069a6b2bd4fa821cdcb4fd6501049f989a
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed May 1 16:46:56 2019 +0200
+
+    Navbar articles
+
+commit 41e6acc0651aef77c630b8a25b1beab930ad78b7
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed May 1 15:45:33 2019 +0200
+
+    Fixed redirect
+
+commit af09fa2528b10c8fde521453cc06e4e0c7d34f18
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 30 20:52:10 2019 +0200
+
+    capire perchè response no e request si  @login
+
+commit 41342ca72bdcbe87b54dc5a89e9493332604a09b
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 30 20:01:01 2019 +0200
+
+    Adding files
+
+commit 30d5c785ef8aa65dc67ae7809601990115ba078e
+Merge: 79fbc2f 318d70a
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 30 19:56:17 2019 +0200
+
+    Merge origin/master
+
+commit 79fbc2f025d5205e7d0f440521203bfaca1f08c5
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 30 19:54:47 2019 +0200
+
+    first commit
+
+commit 318d70a65c3f92e126e7ecc18d8143e64a68845d
+Author: Fran Soru <fran.soru@gmail.com>
+Date:   Tue Apr 30 19:36:39 2019 +0200
+
+    Initial commit 
+
+commit 22142a039395e218bbcbc1638c7ec9329f1c4a2e
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sun Apr 14 14:11:13 2019 +0200
+
+    consegna M1
+
+commit cdfdaf4d04b1b77849e5089f7e1e465331d3c036
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 9 20:32:35 2019 +0200
+
+    fixed login for @login.html for tablet & mobile layout
+
+commit 4c8b2b32ed26145b15984675d3ce3ea724c958b4
+Merge: 11be573 3872a42
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 9 20:32:04 2019 +0200
+
+    Merge origin/master
+
+commit 11be57368fa6a2362c9a78a1e8d502c17d96b4f5
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 9 20:31:18 2019 +0200
+
+    fixed login for @login.html for tablet & mobile layout
+
+commit 35e1099fcceb6d20bf68d30ff450b957ae9ceb19
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 9 20:16:11 2019 +0200
+
+    fixed login for @login.html for tablet & mobile layout
+
+commit 3872a429d0de964752b4cf1c51085219768b6c28
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 9 20:16:11 2019 +0200
+
+    fixed login for @login.html for tablet layout
+
+commit 3f6f5218cc3d46b40b493d36121b76971aa3f6f2
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 9 18:43:45 2019 +0200
+
+    delete unnecessary files
+
+commit 6c6f3d83212c17c04c78cc060063f10632c133cd
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 9 18:42:39 2019 +0200
+
+    fixed font size depending on @media
+
+commit 09c86aa5812227cae6dd29be1ef6a3ab16269375
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 8 18:32:17 2019 +0200
+
+    fixed authors and add_button @ scriviarticolo
+
+commit cba379a23424ce15364f69a666ae4f1ed1cef5be
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 8 18:27:06 2019 +0200
+
+    scriviarticolo & profilo updated
+
+commit b80229a3d1333fa9fff97d36a17641b3725301e3
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 8 12:38:17 2019 +0100
+
+    save
+
+commit 430c62cfb0cf148a2210b78090523b18a4eb3560
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 8 11:54:08 2019 +0100
+
+    scriviarticolo.html now uses col- and col-s- column style
+
+commit a9f2bfceb1924b99e869bd0283b887542ea1f197
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 8 11:29:42 2019 +0100
+
+    profilo.html now uses col- and  col-s- style
+
+commit bc5760976275b05d33b4136001c08168b5d18e7d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 8 10:53:10 2019 +0100
+
+    profilo.html edited
+
+commit 3451b54087cff7367d33535e60bee06ab46afe31
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 8 09:50:53 2019 +0100
+
+    border transparent for header in order to avoid validation warning
+
+commit c05a007fd211a7c7ab46a5de48bcd0d30d5c6c23
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 8 09:37:00 2019 +0100
+
+    Added first servlet
+
+commit 158e67eaa336886f0b56213f40ded90c7defc169
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 8 09:12:06 2019 +0100
+
+    warning @484 ???
+
+commit 1de830aa2bd6abd34bde54664c0ecfb2a714309c
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 8 09:02:04 2019 +0100
+
+    re re re added mobile side-links, updated every html page to match
+
+commit d06f64c286e72778befbb62e85086d5ee1d3b92d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sun Apr 7 16:44:52 2019 +0200
+
+    Fixed submit image at scriviarticolo.html
+
+commit f77a43f99a584c69b4c74dd06a27a80036903c9b
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Apr 6 17:36:48 2019 +0200
+
+    Fixed buttons at articoli.html to be centered
+
+commit 8f298eef667574c3e310b8ef7f4f61a8ab33f052
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Apr 6 16:30:51 2019 +0200
+
+    Update valutazione.html
+
+commit 8dcf3cdf2ed049cf4a00bdfbe370e04ddb744bb4
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Apr 3 21:02:06 2019 +0200
+
+    Padding bot 4px, was 5px
+
+commit 057c02d905313f7cbd275f5a4561a2b792df423b
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Wed Apr 3 20:58:24 2019 +0200
+
+    Fix table at articles.html and footer text padding
+
+commit 0dee8cbe58f1f424191c7380377c8f987d98c7af
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 2 11:27:47 2019 +0100
+
+    Test commit with correct login infos
+
+commit ae576593e85b75ccb00ea200302b908887f17ded
+Author: Francesco <f>
+Date:   Tue Apr 2 11:25:47 2019 +0100
+
+    No more side menus on articoli.html mobile
+
+commit 55f4351ac100871e963215947929fcad6bc170e1
+Author: Francesco <f>
+Date:   Tue Apr 2 11:17:09 2019 +0100
+
+    Restored missing sign out button (??)
+
+commit cf4c749e3002111c6c7b4e9215963d1765a2816c
+Author: Francesco <f>
+Date:   Tue Apr 2 11:10:23 2019 +0100
+
+    Fixed mobile design to match requirements
+
+commit 925293c4e60daeedbc3b5d31bdeb2098f82be886
+Author: Francesco <f>
+Date:   Tue Apr 2 10:55:47 2019 +0100
+
+    Savepoint
+
+commit bfd0414616afc2b8162cb66893aef2b16c37259b
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Apr 2 00:13:28 2019 +0200
+
+    profilo.html  side_links class or id ????
+
+commit 4035019f8550a544f45303c08ed179975868a59f
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 1 23:42:24 2019 +0200
+
+    Deleted links in mobile view
+
+commit 5047cbd8c59a995e2374b30d8b24d348a82cfb7c
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 1 20:18:36 2019 +0200
+
+    Formatted style.css
+
+commit 649fe181a7d940d409dd900a52f418746544d41f
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 1 10:02:00 2019 +0100
+
+    Deleted header from login.html
+
+commit 368e012fe89b44e1d505f99d17300c442cc57781
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 1 09:53:30 2019 +0100
+
+    Validated page - V.2
+
+commit 247d36dd8d4758b2885c302274b5d6fc3c4fd9a7
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 1 09:49:04 2019 +0100
+
+    Validated page
+
+commit 90ce6cb08870d8855dca244a83168a6c051f7b2f
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 1 09:43:15 2019 +0100
+
+    Re-ordered css
+
+commit f44ddc039680f9e0884f78c91ccb3f4a1b8bcdad
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Apr 1 09:22:45 2019 +0100
+
+    Scrivi articolo edited
+
+commit 9152dfc37612e581a2dd23ad6d9da0a945a69dc3
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sun Mar 31 19:51:30 2019 +0200
+
+    Fixed sign out button 481~1023 px V.3 (for real tho)
+
+commit 41b0d10e381603f8db59d540d4ff4d2af049903c
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sun Mar 31 18:59:07 2019 +0200
+
+    Fixed annoyinng dot to the side of sign out button
+
+commit c69341eaf1458ddb4429cbf3e5a998e7878b0c3a
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sun Mar 31 18:56:27 2019 +0200
+
+    body 80%
+
+commit d795f75b66c7a9fe003f67df62ec804bf0cb7e15
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sun Mar 31 18:16:13 2019 +0200
+
+    updated image in valutazione.html
+
+commit de916acfa0bead289950798cf9cb1169246f7488
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sun Mar 31 17:59:29 2019 +0200
+
+    Fix sign out button 481~1023 px V.2
+
+commit a1e497f1502c1f662eee810e44d97b514c9c8d74
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sun Mar 31 17:46:47 2019 +0200
+
+    Fix sign out button 481~1023 px
+
+commit 60ff18323ec1a06d014dc69a95618271aa8ccdb6
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 23:32:35 2019 +0100
+
+    No more current tab @ login.html
+
+commit 1bcf44ed61bdc600d0accf7e4522cbf6db7ba345
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 23:25:11 2019 +0100
+
+    Fixed sign out buttons for all res.
+
+commit cc4cfd7d78b19fb84d1b1b65cf8db907f2470a70
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 22:50:10 2019 +0100
+
+    Fixed vertical list for 480p
+
+commit a6002cf5302cb577e6a7b096ed8892b9bb679918
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 22:46:24 2019 +0100
+
+    Missing vertical li list for 480p+
+
+commit c609c3b54c64956478c8fb75142085a567d9f1fc
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 22:18:39 2019 +0100
+
+    Done with sidebar, restore point
+
+commit 836c74d8ede3ab141b8d5c9fefe251a9bd573c8c
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 21:47:01 2019 +0100
+
+    Fixed all hidden Sign out buttons
+
+commit b473437913ebe9d4bfaed17989dc81011a5a3b17
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 21:41:31 2019 +0100
+
+    Restore point for hidden button
+
+commit 71a7932256cd1ff39242eea53d6a78aad89d8c06
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 21:29:58 2019 +0100
+
+    OK
+
+commit 5332e3ad4ac398ae22629d96d041176804609e2d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 21:06:57 2019 +0100
+
+    Save point working
+
+commit 08e3fae89b9050740c1433a356aa412f08d136f2
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 21:06:10 2019 +0100
+
+    Save point 480p button
+
+commit 1f3be15c6e811ac8ff2e8d83657bf5349c0c2d93
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 20:49:55 2019 +0100
+
+    Fixed header for all resolutions
+
+commit 3c59231899bb72047a6de22f9ebe855b904cd5d6
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 20:38:07 2019 +0100
+
+    Restore point
+
+commit b1e9a1c3b1b103fcdfabdb924be2f3679d5ebf03
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 16:25:48 2019 +0100
+
+    update blank picture and css for profile.html
+
+commit b5061aeb666e844f7b4418df422e9dbda593f0b5
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 16:17:27 2019 +0100
+
+    Lost login.html, found it and fixed 600~768 layout
+
+commit b58f37854951f8e9e1f9bc111ecd0a0ba1d50bcc
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 16:08:36 2019 +0100
+
+    Reworked profilo.html
+
+commit a7bf9fb68dcd174a1ff8c908f65588f4b4ef8051
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Sat Mar 30 15:54:38 2019 +0100
+
+    Reworked profilo.html
+
+commit 48fa343d67f0af452458646b916480de0c386cb6
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 22:25:24 2019 +0100
+
+    Fixed two IDs with the same name messing up the layout
+
+commit d427e110efbe928b29cacaff2d90c761e5f8accc
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 22:16:28 2019 +0100
+
+    Profile page done
+
+commit befac8ca28e41bdd3e739818447a2e72a643ed4c
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 21:47:20 2019 +0100
+
+    Editing Profile
+
+commit 3ffd4b2d6154ac1feca498cd5cca4beb22afb7b3
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 21:11:32 2019 +0100
+
+    Finished scriviArticolo.html
+
+commit 9c7fe28b6a99ec5287b57c5db9854bf98b802f67
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 21:07:53 2019 +0100
+
+    scriviArticolo.html ~
+
+commit a535b788031f6aae3aeb93816d0d75600636aced
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 20:19:30 2019 +0100
+
+    Finished articoli.html - Still have problem with max-width: 600px on firefox.
+
+commit 76512863481a9a66c3db17535d209f570eb27ed1
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 18:23:44 2019 +0100
+
+    articoli.html finished
+
+commit 53beb1a77c623fa5fb6a8d33fe6486256f82ce33
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 17:10:49 2019 +0100
+
+    valutazione.html finished and validated
+
+commit 694bbcef779306dd1607c3c12d0e2de4423f8ce1
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 16:58:46 2019 +0100
+
+    Added 1-5 grades
+
+commit e6121abf4b4f57de581d68cddab9d1aae9327776
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 16:22:24 2019 +0100
+
+    Fixed layout completely, validated and progressing with the valutazione.html page
+
+commit e14c248a6ae546101a4284f8c3759e48e862f523
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 15:29:17 2019 +0100
+
+    Fixed left_navbar to expand its height properly
+
+commit 925f083614cdf5bc466a772149b607450b92a682
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 12:52:30 2019 +0000
+
+    added problema file with semplified syntax to work on fixing the left_navbar
+
+commit ff0457d0fc9671f4cea1978d092215fa05bb423d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 12:33:21 2019 +0000
+
+    navbar moved to the right?
+
+commit b509c34d90906d879eb1ce79a7e8fc12769875bc
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 12:16:10 2019 +0000
+
+    Fixed login.html resizing font and submit_form size
+
+commit 001a9fca6efa915adc38fb21625fda8495f43ade
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 12:04:14 2019 +0000
+
+    Restore point
+
+commit fd6dfa1ec0c0388ddd2818732707bc28c4c1adbf
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 11:20:53 2019 +0000
+
+    Testing left_navbar height
+
+commit 2ac37012597583cf5fdaa90e6aca799a0c2a77dd
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 10:49:46 2019 +0000
+
+    working on left_navbar
+
+commit 1e695af72a878bddfd47ac9ee61300d2fc5406c3
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 09:45:21 2019 +0000
+
+    .content-height: 90vh
+
+commit a1a88a0080bf1ae340161c24e455e0368f69d30d
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Fri Mar 29 09:42:58 2019 +0000
+
+    Changed color to white for mobile version
+
+commit 539e9c2fd6c07dd9109e47c0ceff2a58af492f0f
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu Mar 28 22:52:25 2019 +0100
+
+    Polished css code
+
+commit b364ce0becb6ee8c7a71b9f3d9e22eb88c06d7d3
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu Mar 28 22:42:56 2019 +0100
+
+    Fixed border radius for header and footer
+
+commit 3062c478ca5ba7552caa2fba3ba9435584215805
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu Mar 28 22:39:35 2019 +0100
+
+    Corrected and validated template.html, login.html and style.css
+
+commit 441b6c169d95aacdb8d253a526c71bec2d6005c8
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu Mar 28 22:36:10 2019 +0100
+
+    Fixed 768+ res
+
+commit 9b11b09095c0e4e9f809252916478de5ad68e931
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu Mar 28 22:32:58 2019 +0100
+
+    Fixed max-width 600px
+
+commit 5f85142364f76aa8a49975f538d2ec2acd24e865
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu Mar 28 22:11:06 2019 +0100
+
+    Fixed some css problems, still need the 'up to 600 pixel' form to be displayed correctly
+
+commit b010df147804fb42eb8e138584fd7ebe548a38f5
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Thu Mar 28 21:44:40 2019 +0100
+
+    Created login page, need to fix the form not formatting properly when resizing
+
+commit 5d8e389819aae9ace5c11e18e555ad77ffd942d3
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Tue Mar 26 12:51:38 2019 +0000
+
+    Added new button style to match a possible blue theme
+
+commit 8d658722da1de90b715d1685387d5f134a6fde70
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Mar 25 12:33:27 2019 +0000
+
+    Added login page
+
+commit 60967a9ecaf35484cf8f64088efd2f08f4d71c0e
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Mar 25 12:11:15 2019 +0000
+
+    Added titles and updated css with generic background and text style.
+    Added page_title class, might remove later on
+
+commit 8d0b1d22dc9190261f3b6f57446c4bf63f4c3d76
+Merge: a481003 41e46ac
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Mar 25 11:51:37 2019 +0000
+
+    Merge origin/master
+
+commit a481003d2f182597c7001bc5937ca58b801744bd
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Mar 25 11:49:50 2019 +0000
+
+    Added meta tags
+
+commit db947f797fe70973b16c5935126b3a5b552df8be
+Author: Fransiscu <fran.soru@gmail.com>
+Date:   Mon Mar 25 11:42:11 2019 +0000
+
+    Creation and first upload of the project
+
+commit 41e46ac014c48a4c2cc4bdeb4316539d58853f00
+Author: Fran Soru <fran.soru@gmail.com>
+Date:   Mon Mar 25 10:43:20 2019 +0000
+
+    Create README.md
